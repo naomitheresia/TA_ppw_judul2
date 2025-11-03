@@ -1,4 +1,4 @@
-#TA PPW Judul 2
+
 Portofolio Naomi Theresia Br Saragih
 
 Halo! Proyek ini adalah website portofolio pribadi yang saya rancang untuk menampilkan informasi tentang diri saya, termasuk profil, latar belakang pendidikan, serta minat dan keahlian di bidang teknologi. Website ini dibuat menggunakan HTML dan CSS sebagai bentuk pembelajaran dalam pengembangan front-end, sekaligus menjadi media untuk membangun identitas profesional secara digital.
