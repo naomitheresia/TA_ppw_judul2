@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Reset dan Setup Dasar */
 * {
   margin: 0;
@@ -579,3 +580,29 @@ button:focus {
 =======
 /* file css baru */
 >>>>>>> b302cdf (menambahkan style.css)
+=======
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #333;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #007acc;
+}
+>>>>>>> d3741b2 (menambahkan style.css)
