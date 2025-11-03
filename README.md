@@ -4,17 +4,16 @@ Halo! Proyek ini adalah website portofolio pribadi yang saya rancang untuk menam
 Dokumentasi: 
 
 Website sebelum Update Style:
-<img width="1869" height="1124" alt="Screen<img width="1898" height="892" alt="Screenshot 2025-11-04 003444" src="https://github.com/user-attachments/assets/250c858d-4746-4787-b11c-278f34e08c42" />
-shot 2025-11-02 131125" src="https://github.com/user-attachments/assets/1b366f44-4674-4cee-815c-c4d42efbc89d" />
+<img width="1898" height="892" alt="Screenshot 2025-11-04 003444" src="https://github.com/user-attachments/assets/250c858d-4746-4787-b11c-278f34e08c42" />
 
 Website setelah Update Style:
-<img width="1868" height="1129" alt="Screenshot 2025-11-02 143945" src="https://github.com/user-attachments/assets/64af34f<img width="1896" height="886" alt="Screenshot 2025-11-04 005605" src="https://github.com/user-attachments/assets/4df4208b-491d-48f3-8918-84d2a13c6f69" />
-3-1f8a-4817-af9b-e2ba4a9e4034" />
+<img width="1896" height="886" alt="Screenshot 2025-11-04 005605" src="https://github.com/user-attachments/assets/4df4208b-491d-48f3-8918-84d2a13c6f69" />
 
 Langkah-langkah pengerjaan:
 
 1. Inisialisasi dan Penambahan File ke Repositori Tugas Akhir Judul 2
-   <img width="1186" height="777" alt="Screenshot 2025-11-02 134144" src="https://github.com/user-attachments/assets/1dd7cd92-3287-4a26-b7d6-b4ce671013d2" />
+ /<img width="591" height="417" alt="Screenshot 2025-11-03 235033" src="https://github.com/user-attachments/assets/0b54a83f-7587-47a6-8563-1bf1acb589c9" />
+     <img width="1186" height="777" alt="Screenshot 2025-11-02 134144" src="https://github.com/user-attachments/assets/1dd7cd92-3287-4a26-b7d6-b4ce671013d2" />
 2. git add file dan commit -m "Menambahkan nama_file"
    <img width="1134" height="688" alt="Screenshot 2025-11-02 142751" src="https://github.com/user-attachments/assets/9adf0974-b991-4353-ae5d-29aff0d8de8c" />
 3. git branch, merge, and delete update-style
